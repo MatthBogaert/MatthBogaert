@@ -21,25 +21,18 @@ I am currently working as an Assistant Professor of Data Analytics at the Market
 📫 Get in touch:
 * E-mail: <Matthias.Bogaert@UGent.be>
 * LinkedIn: www.linkedin.com/in/matthias-bogaert-79a28148
-* Twitter (all expressed opinion are my own): https://twitter.com/matthbogaert 
-
-## Research group 📈
-
-I work at the Research Group Data Analytics at the Faculty of Economics and Business Administration of Ghent University.The research group Data Analytics engages in teaching and 
-research on the use of data to improve and optimize business processes. This research is based on techniques such as statistics, datamining and machine learning (e.g. deep 
-learning and reinforcement learning) and big data. The research group focuses on methodological as well as technical innovations and applications in a large number of application areas. 
-
-Below you can see a picture of the members in our research group. Currently, there are 3 professors: Prof. Dr. Dries Benoit (at the back, far left), Prof. Dr. Dirk Van den Poel (at the back, far right), and your truly (at the back, second from left). 
+* Twitter (all expressed opinions are my own): https://twitter.com/matthbogaert 
 
 ## Research 📄
 
 ### Selected publications
 
-* Schetgen, L., Bogaert, M., & Van den Poel, D. (2020). Predicting donation behavior: Acquisition modeling in the nonprofit sector using Facebook data. *Decision Support Systems*. Forthcoming. ([LINK](https://www.dataanalytics.ugent.be/WorkingPaper_DonationBehavior.pdf))
-* Bogaert, M., Ballings, M., Bergmans, R., & Van den Poel, D., 2019. Predicting Self-declared Movie Watching Behaviour Using Facebook Data and Information-fusion Sensitivity Analysis. *Decision Sciences*. Forthcoming. 
-* Bogaert, M.,  Lootens, J., Van den Poel, D., & Ballings, M., 2019. Evaluating Multi-label Classifiers and Recommender Systems in the Financial Service Sector. *European Journal of Operational Research* 279 (2), 620-634.
+* Schetgen, L., Bogaert, M., & Van den Poel, D. (2020). Predicting donation behavior: Acquisition modeling in the nonprofit sector using Facebook data. *Decision Support Systems*. Forthcoming. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_DonationBehavior.pdf))
+* Bogaert, M., Ballings, M., Bergmans, R., & Van den Poel, D., 2019. Predicting Self-declared Movie Watching Behaviour Using Facebook Data and Information-fusion Sensitivity Analysis. *Decision Sciences*. Forthcoming. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/MovieWatchingBehavior_WorkingPaper.pdf))
+* Bogaert, M.,  Lootens, J., Van den Poel, D., & Ballings, M., 2019. Evaluating Multi-label Classifiers and Recommender Systems in the Financial Service Sector. *European Journal of Operational Research* 279 (2), 620-634. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/EvaluatingMultiLabelClassifiers_WorkingPaper.pdf))
+* [PhD Dissertation](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/phd_mb.pdf)
 
-For a full list of all my publications, you can view my CV here.
+For a full list of all my publications, you can view my CV [here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/CurriculumVitae_MatthiasBogaert.pdf).
 
 ### General overview
 
@@ -80,3 +73,12 @@ Previous courses:
 * AggregateR ([CRAN link](https://cran.r-project.org/web/packages/AggregateR/index.html) / [Github link](https://github.com/MatthBogaert/AggregateR))
 * DecorateR ([CRAN link](https://cran.r-project.org/web/packages/DecorateR/index.html))
 
+## Research group 📈
+
+I work at the Research Group Data Analytics at the Faculty of Economics and Business Administration of Ghent University.The research group Data Analytics engages in teaching and 
+research on the use of data to improve and optimize business processes. This research is based on techniques such as statistics, datamining and machine learning (e.g. deep 
+learning and reinforcement learning) and big data. The research group focuses on methodological as well as technical innovations and applications in a large number of application areas. 
+
+Below you can see a picture of the members in our research group. Currently, there are 3 professors: Prof. Dr. Dries Benoit (at the back, far left), Prof. Dr. Dirk Van den Poel (at the back, far right), and your truly (at the back, second from left). 
+
+![alt text here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/Data_Analytics_Research_Group_Sept_2020_Large.jpg)
