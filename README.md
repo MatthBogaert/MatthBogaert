@@ -71,7 +71,7 @@ Previous courses:
 ## Software 💻
 
 * AggregateR ([CRAN link](https://cran.r-project.org/web/packages/AggregateR/index.html) / [Github link](https://github.com/MatthBogaert/AggregateR))
-* DecorateR ([CRAN link](https://cran.r-project.org/web/packages/DecorateR/index.html))
+* DecorateR ([CRAN link](https://cran.r-project.org/web/packages/DecorateR/index.html) / [Github link](https://github.com/MatthBogaert/DecorateR))
 
 ## Research group 📈
 
