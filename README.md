@@ -25,13 +25,16 @@ I am currently working as an assistant professor of Data Analytics at the Market
 
 ## Research 📄
 
-### Selected publications
+### Selected journal publications
 
-* NEW: Bogaert, M., Ballings, M., Van den Poel, D., & Oztekin 1. (2021). Box Office Sales and Social Media: A Cross-Platfor Comparison of Predictive Ability and Mechansims. *Decision Support Systems*. Forthcoming. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_BoxOffice.pdf))
+* Bogaert, M., Ballings, M., Van den Poel, D., & Oztekin, A. (2021). Box office sales and social media: A cross-platform comparison of predictive ability and mechanisms. *Decision Support Systems*, 147, 113517. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_BoxOffice.pdf))
 * Schetgen, L., Bogaert, M., & Van den Poel, D. (2021). Predicting donation behavior: Acquisition modeling in the nonprofit sector using Facebook data. *Decision Support Systems*. 141, 113446. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_DonationBehavior.pdf))
 * Bogaert, M., Ballings, M., Bergmans, R., & Van den Poel, D., 2019. Predicting Self-declared Movie Watching Behaviour Using Facebook Data and Information-fusion Sensitivity Analysis. *Decision Sciences*. Forthcoming. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/MovieWatchingBehavior_WorkingPaper.pdf))
 * Bogaert, M.,  Lootens, J., Van den Poel, D., & Ballings, M., 2019. Evaluating Multi-label Classifiers and Recommender Systems in the Financial Service Sector. *European Journal of Operational Research* 279 (2), 620-634. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/EvaluatingMultiLabelClassifiers_WorkingPaper.pdf))
 * [PhD Dissertation](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/phd_mb.pdf)
+
+### Selected conference proceedings
+* NEW: Janssens, B., & Bogaert, M. (2021). Imputation of non-participated race results. *8th Workshop on Machine Learning and Data Mining for Sports Analytics, ECML/PKDD 2021 Workshop*.([LINK](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_janssens.pdf))
 
 For a full list of all my publications, you can view my CV [here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/CurriculumVitae_MatthiasBogaert.pdf).
 
@@ -54,6 +57,7 @@ My **theoretical** interests include, but are not limited to:
 * CRM (acquisition, churn and retention management, cross-selling)
 * Hospitality (e.g., reviews)
 * Finance
+* Sports
 
 ## Teaching 🎓
 
