@@ -27,10 +27,10 @@ I am currently working as an assistant professor of Data Analytics at the Market
 
 ### Selected journal publications
 
+* NEW: Janssens, B., Bogaert, M., & Van den Poel, D. (2021). Evaluating the influence of Airbnb listings’ descriptions on demand. *International Journal of Hospitality Management*. Forthcoming. 
 * Bogaert, M., Ballings, M., Van den Poel, D., & Oztekin, A. (2021). Box office sales and social media: A cross-platform comparison of predictive ability and mechanisms. *Decision Support Systems*, 147, 113517. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_BoxOffice.pdf))
 * Schetgen, L., Bogaert, M., & Van den Poel, D. (2021). Predicting donation behavior: Acquisition modeling in the nonprofit sector using Facebook data. *Decision Support Systems*. 141, 113446. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_DonationBehavior.pdf))
 * Bogaert, M., Ballings, M., Bergmans, R., & Van den Poel, D., 2019. Predicting Self-declared Movie Watching Behaviour Using Facebook Data and Information-fusion Sensitivity Analysis. *Decision Sciences*. Forthcoming. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/MovieWatchingBehavior_WorkingPaper.pdf))
-* Bogaert, M.,  Lootens, J., Van den Poel, D., & Ballings, M., 2019. Evaluating Multi-label Classifiers and Recommender Systems in the Financial Service Sector. *European Journal of Operational Research* 279 (2), 620-634. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/EvaluatingMultiLabelClassifiers_WorkingPaper.pdf))
 * [PhD Dissertation](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/phd_mb.pdf)
 
 ### Selected conference proceedings
