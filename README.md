@@ -27,7 +27,7 @@ I am currently working as an assistant professor of Data Analytics at the Market
 
 ### Selected journal publications
 
-* NEW: Janssens, B., Bogaert, M., Bagué, A., & Van den Poel, D. (2022). B2Boost: Instance-dependent profit-driven modelling of B2B churn. Annals of Operations Research, 1-27.
+* NEW: Janssens, B., Bogaert, M., Bagué, A., & Van den Poel, D. (2022). B2Boost: Instance-dependent profit-driven modelling of B2B churn. Annals of Operations Research, 1-27. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/Manuscript_R2.pdf))
 * Janssens, B., Bogaert, M., & Maton, M. (2021). Predicting the next Pogacar: a data analytical approach to detect young professional cycling talents. Forthcoming. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_Cycling.pdf))
 * Janssens, B., Bogaert, M., & Van den Poel, D. (2021). Evaluating the influence of Airbnb listings’ descriptions on demand. International Journal of Hospitality Management, 99, 103071. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_IJHM.pdf)) 
 * Bogaert, M., Ballings, M., Van den Poel, D., & Oztekin, A. (2021). Box office sales and social media: A cross-platform comparison of predictive ability and mechanisms. *Decision Support Systems*, 147, 113517. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_BoxOffice.pdf))
