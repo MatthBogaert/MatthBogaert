@@ -98,4 +98,4 @@ Cost and Value Analytics, Models & Optimization (CVAMO) is a new research lab th
 
 CVAMO is a core lab in the Strategic Research Center Flanders Make (www.flandersmake.be), that groups research labs from all Flemmish universities. Based on high-tech research, Flanders Make offers active support to companies in the manufacturing industry to develop and optimize products and production processes.
 
-![alt text here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flandersmake.be%2Fen%2Fdownloads%2Fmedia&psig=AOvVaw0NI9LklGICKaWoMAYHakvI&ust=1685602346397000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCFrbL8nv8CFQAAAAAdAAAAABAE)
+![alt text here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/FM_logo_0.png)
