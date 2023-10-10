@@ -27,7 +27,7 @@ I am currently working as an assistant professor of Data Analytics at the Market
 
 ### Latest journal publications
 
-* Janssens, B., Schetgen, L., Bogaert, M., Meire, M., & Van den Poel, D. (2023). 360 Degrees Rumor Detection: When Explanations Got Some Explaining To Do. European Journal of Operational Research.
+* Janssens, B., Schetgen, L., Bogaert, M., Meire, M., & Van den Poel, D. (2023). 360 Degrees Rumor Detection: When Explanations Got Some Explaining To Do. European Journal of Operational Research. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_Rumors.pdf))
 * Bogaert, M., & Delaere, L. (2023). Ensemble Methods in Customer Churn Prediction: A Comparative Analysis of the State-of-the-Art. Mathematics, 11(5), 1137. ([LINK](https://www.mdpi.com/2227-7390/11/5/1137))
 * Janssens, B., Bogaert, M., Bagué, A., & Van den Poel, D. (2022). B2Boost: Instance-dependent profit-driven modelling of B2B churn. Annals of Operations Research, 1-27. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/Manuscript_R2.pdf))
 * Janssens, B., Bogaert, M., & Maton, M. (2021). Predicting the next Pogacar: a data analytical approach to detect young professional cycling talents. Annals of Operations Research, 1-32. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_Cycling.pdf))
