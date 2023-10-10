@@ -25,13 +25,13 @@ I am currently working as an assistant professor of Data Analytics at the Market
 
 ## Research 📄
 
-### Selected journal publications
+### Latest journal publications
 
-* Bogaert, M., & Delaere, L. (2023). Ensemble Methods in Customer Churn Prediction: A Comparative Analysis of the State-of-the-Art. Mathematics, 11(5), 1137.* Janssens, B., Bogaert, M., Bagué, A., & Van den Poel, D. (2022). ([LINK](https://www.mdpi.com/2227-7390/11/5/1137))
-* B2Boost: Instance-dependent profit-driven modelling of B2B churn. Annals of Operations Research, 1-27. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/Manuscript_R2.pdf))
+* Janssens, B., Schetgen, L., Bogaert, M., Meire, M., & Van den Poel, D. (2023). 360 Degrees Rumor Detection: When Explanations Got Some Explaining To Do. European Journal of Operational Research.
+* Bogaert, M., & Delaere, L. (2023). Ensemble Methods in Customer Churn Prediction: A Comparative Analysis of the State-of-the-Art. Mathematics, 11(5), 1137. ([LINK](https://www.mdpi.com/2227-7390/11/5/1137))
+* Janssens, B., Bogaert, M., Bagué, A., & Van den Poel, D. (2022). B2Boost: Instance-dependent profit-driven modelling of B2B churn. Annals of Operations Research, 1-27. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/Manuscript_R2.pdf))
 * Janssens, B., Bogaert, M., & Maton, M. (2021). Predicting the next Pogacar: a data analytical approach to detect young professional cycling talents. Annals of Operations Research, 1-32. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_Cycling.pdf))
 * Janssens, B., Bogaert, M., & Van den Poel, D. (2021). Evaluating the influence of Airbnb listings’ descriptions on demand. International Journal of Hospitality Management, 99, 103071. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_IJHM.pdf)) 
-* Bogaert, M., Ballings, M., Van den Poel, D., & Oztekin, A. (2021). Box office sales and social media: A cross-platform comparison of predictive ability and mechanisms. *Decision Support Systems*, 147, 113517. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_BoxOffice.pdf))
 * [PhD Dissertation](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/phd_mb.pdf)
 
 ### Selected conference proceedings
@@ -85,8 +85,8 @@ Previous courses:
 ### Data Analytics 
 
 I work at the Research Group Data Analytics at the Faculty of Economics and Business Administration of Ghent University.The research group Data Analytics engages in teaching and 
-research on the use of data to improve and optimize business processes. This research is based on techniques such as statistics, datamining and machine learning (e.g. deep 
-learning and reinforcement learning) and big data. The research group focuses on methodological as well as technical innovations and applications in a large number of application areas. 
+research on the use of data to improve and optimize business processes. This research is based on techniques such as statistics, data mining and machine learning (e.g. deep 
+learning and reinforcement learning) and optimization. The research group focuses on methodological as well as technical innovations and applications in a large number of application areas. 
 
 Below you can see a picture of the members in our research group. Currently, there are 3 professors: Prof. Dr. Dries Benoit (at the back, far left), Prof. Dr. Dirk Van den Poel (at the back, far right), and yours truly (at the back, second from left). 
 
