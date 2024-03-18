@@ -25,6 +25,10 @@ I am currently working as an assistant professor of Data Analytics at the Market
 
 ## Research 📄
 
+### 📣 Special issue 📣
+
+I am currently guest editor a special issue *Ensemble Learning for Operations Research & Business Analytics* in Annals of Operations Research: [LINK](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://resource-cms.springernature.com/springer-cms/rest/v1/content/23713752/data/v2) to the call for papers. 
+
 ### Latest journal publications
 
 * Janssens, B., Schetgen, L., Bogaert, M., Meire, M., & Van den Poel, D. (2023). 360 Degrees Rumor Detection: When Explanations Got Some Explaining To Do. European Journal of Operational Research. ([LINK](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/WorkingPaper_Rumors.pdf))
@@ -91,9 +95,7 @@ I work at the Research Group Data Analytics at the Faculty of Economics and Busi
 research on the use of data to improve and optimize business processes. This research is based on techniques such as statistics, data mining and machine learning (e.g. deep 
 learning and reinforcement learning) and optimization. The research group focuses on methodological as well as technical innovations and applications in a large number of application areas. 
 
-Below you can see a picture of the members in our research group. Currently, there are 3 professors: Prof. Dr. Dries Benoit (at the back, far left), Prof. Dr. Dirk Van den Poel (at the back, far right), and yours truly (at the back, second from left). 
-
-![alt text here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/Data_Analytics_Research_Group_Sept_2020_Large.jpg)
+Below you can see a picture of the members in our research group. Currently, there are 3 professors: Prof. Dr. Dries Benoit, Prof. Dr. Dirk Van den Poel, and yours truly. 
 
 ### CVAMO
 
