@@ -78,8 +78,8 @@ Previous courses:
 
 ## Software 💻
 
-* AggregateR ([CRAN link](https://cran.r-project.org/web/packages/AggregateR/index.html) / [Github link](https://github.com/MatthBogaert/AggregateR))
-* DecorateR ([CRAN link](https://cran.r-project.org/web/packages/DecorateR/index.html) / [Github link](https://github.com/MatthBogaert/DecorateR))
+* AggregateR: [CRAN link](https://cran.r-project.org/web/packages/AggregateR/index.html) / [Github link](https://github.com/MatthBogaert/AggregateR)
+* DecorateR: [CRAN link](https://cran.r-project.org/web/packages/DecorateR/index.html) / [Github link](https://github.com/MatthBogaert/DecorateR)
 * 🐍 B2Boost, in colab with Dr. Bram Janssens [Github link](https://github.com/bram-janssens/B2Boost)
 * :snake: empulse, in colab with Shimanto Rahman [PyPi link](https://pypi.org/project/empulse/) / [Github link](https://github.com/ShimantoRahman/empulse)
 
