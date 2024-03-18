@@ -27,7 +27,7 @@ I am currently working as an assistant professor of Data Analytics at the Market
 
 ### 📣 Special issue 📣
 
-I am currently guest editor a special issue *Ensemble Learning for Operations Research & Business Analytics* in Annals of Operations Research: [LINK](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://resource-cms.springernature.com/springer-cms/rest/v1/content/23713752/data/v2) to the call for papers. 
+I am currently guest editor a special issue *Ensemble Learning for Operations Research & Business Analytics* in Annals of Operations Research: [LINK](https://resource-cms.springernature.com/springer-cms/rest/v1/content/23713752/data/v2) to the call for papers. 
 
 ### Latest journal publications
 
