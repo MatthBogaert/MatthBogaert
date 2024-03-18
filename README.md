@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am currently working as an assistant professor of Data Analytics at the Marketing, Innovation, and Organization Department (Research Group Data Analytics) at Ghent University. Besides that, I am also Visiting Professor at the University of Namur and a member of the CVAMO research group at Flanders Make. Prior to joining Ghent University, I worked as an assistant professor at the University of Edinburgh Business School and postdoctoral researcher at the KU Leuven. I studied Business Engineering and received a PhD in Business Economics at Ghent University in 2018. I have taught a wide range of data analytics courses ranging from basic statistics and database management to advanced predictive analytics and social media and web analytics. My research focuses on applications of descriptive, predictive and prescriptive analytics in social media, customer relationship management, hospitality and sports. My research has been published in several well-known international journals such as the *European Journal of Operational Research*, *Omega*, *Decision Sciences*, among others.
+I am currently working as an assistant professor of Data Analytics at the Marketing, Innovation, and Organization Department (Research Group Data Analytics) at Ghent University. Besides that, I am also Visiting Professor at the University of Namur and a member of the CVAMO research group at Flanders Make. Prior to joining Ghent University, I worked as an assistant professor at the University of Edinburgh Business School and postdoctoral researcher at the KU Leuven. I studied Business Engineering and received a PhD in Business Economics at Ghent University in 2018. I have taught a wide range of data analytics courses ranging from basic statistics and database management to advanced predictive analytics and social media and web analytics. My research focuses on applications of descriptive, predictive and prescriptive analytics in social media, customer relationship management, hospitality, sports and production and manufacturing. My research has been published in several well-known international journals such as the *European Journal of Operational Research*, *Omega*, *Decision Sciences*, among others.
 
 📫 Get in touch:
 * E-mail: <Matthias.Bogaert@UGent.be>
@@ -60,6 +60,7 @@ My **theoretical** interests include, but are not limited to:
 * Hospitality (e.g., reviews)
 * Finance
 * Sports
+* Production & Manufacturing
 
 ## Teaching 🎓
 
@@ -79,6 +80,8 @@ Previous courses:
 
 * AggregateR ([CRAN link](https://cran.r-project.org/web/packages/AggregateR/index.html) / [Github link](https://github.com/MatthBogaert/AggregateR))
 * DecorateR ([CRAN link](https://cran.r-project.org/web/packages/DecorateR/index.html) / [Github link](https://github.com/MatthBogaert/DecorateR))
+* 🐍 B2Boost, in colab with Dr. Bram Janssens [Github link](https://github.com/bram-janssens/B2Boost)
+* :snake: empulse, in colab with Shimanto Rahman [PyPi link](https://pypi.org/project/empulse/) / [Github link](https://github.com/ShimantoRahman/empulse)
 
 ## Research group 📈
 
