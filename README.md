@@ -103,4 +103,4 @@ CVAMO is a core lab in the Strategic Research Center Flanders Make (www.flanders
 
 Below you can see a picture of the members in our research group (beginnig at the bottom row, from right to left): Shimanto Rahman (assitant), Prof Dr Matthias Bogaert, Juliana Sanchez Ramirez (PhD, shared with IESEG School of Management), Dylan Van Mulders (assitant), Xiao Wang (PhD), Lukas De Kerpel (assistant), Yaël De Rocker (PhD), Prof Dr Dries Benoit, Athur Thuy (PhD), Brammert Termont (PhD), Dr Bram Janssens (postdoc), Prof Dr Dirk Van den Poel, Matteo Ballegeer (PhD), Wannes Janssens (PhD), Toon Van Camp (PhD). 
 
-![alt text here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/FM_logo_0.png)
+![alt text here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/DSC04747.jpg)
