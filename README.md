@@ -95,12 +95,12 @@ I work at the Research Group Data Analytics at the Faculty of Economics and Busi
 research on the use of data to improve and optimize business processes. This research is based on techniques such as statistics, data mining and machine learning (e.g. deep 
 learning and reinforcement learning) and optimization. The research group focuses on methodological as well as technical innovations and applications in a large number of application areas. 
 
-Below you can see a picture of the members in our research group. Currently, there are 3 professors: Prof. Dr. Dries Benoit, Prof. Dr. Dirk Van den Poel, and yours truly. 
-
 ### CVAMO
 
 Cost and Value Analytics, Models & Optimization (CVAMO) is a new research lab that groups 10 professors and about 28 pre- or postdoctoral researchers form different departments linked to the degree in Business Engineering at the faculty of Economics and Business Administration (Ghent University). The goal of CVAMO is to successfully introduce business analytics, cost and value driven modeling and technological innovation in ther manufacturing and production setting.
 
 CVAMO is a core lab in the Strategic Research Center Flanders Make (www.flandersmake.be), that groups research labs from all Flemmish universities. Based on high-tech research, Flanders Make offers active support to companies in the manufacturing industry to develop and optimize products and production processes.
+
+Below you can see a picture of the members in our research group (beginnig at the bottom row, from right to left): Shimanto Rahman (assitant), Prof Dr Matthias Bogaert, Juliana Sanchez Ramirez (PhD, shared with IESEG School of Management), Dylan Van Mulders (assitant), Xiao Wang (PhD), Lukas De Kerpel (assistant), Yaël De Rocker (PhD), Prof Dr Dries Benoit, Athur Thuy (PhD), Brammert Termont (PhD), Dr Bram Janssens (postdoc), Prof Dr Dirk Van den Poel, Matteo Ballegeer (PhD), Wannes Janssens (PhD), Toon Van Camp (PhD). 
 
 ![alt text here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/FM_logo_0.png)
