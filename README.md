@@ -39,7 +39,7 @@ I am currently working as an Associate Professor of Data Analytics at the Market
 * Baron, E., Janssens, B., & Bogaert, M. (2023). Bike2Vec: Vector Embedding Representations of Road Cycling Riders and Races. arXiv preprint arXiv:2305.10471.([LINK](https://arxiv.org/pdf/2305.10471.pdf))
 * Janssens, B., & Bogaert, M. (2021). Imputation of non-participated race results. *8th Workshop on Machine Learning and Data Mining for Sports Analytics, ECML/PKDD 2021 Workshop*.([LINK](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_janssens.pdf))
 
-For a full list of all my publications, you can view my CV [here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/CurriculumVitae_MatthiasBogaert.pdf).
+For a full list of all my publications, you can view my CV [here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/CurriculumVitae_MatthiasBogaert_Long.pdf).
 
 ### General overview
 
