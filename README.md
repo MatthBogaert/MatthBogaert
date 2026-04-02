@@ -20,14 +20,11 @@ I am currently working as an assistant professor of Data Analytics at the Market
 
 📫 Get in touch:
 * E-mail: <Matthias.Bogaert@UGent.be>
-* LinkedIn: www.linkedin.com/in/matthias-bogaert-79a28148
-* Twitter (all expressed opinions are my own): https://twitter.com/matthbogaert 
+* [Research portal](https://research.ugent.be/web/person/matthias-bogaert-0/en)
+* [LinkedIn](www.linkedin.com/in/matthias-bogaert-79a28148)
+* [X](https://x.com/MatthBogaert)
 
 ## Research 📄
-
-### 📣 Special issue 📣
-
-I am currently guest editor of a special issue *Ensemble Learning for Operations Research & Business Analytics* in Annals of Operations Research: [LINK](https://resource-cms.springernature.com/springer-cms/rest/v1/content/23713752/data/v2) to the call for papers. 
 
 ### Latest journal publications
 
