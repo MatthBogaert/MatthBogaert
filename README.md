@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am currently working as an Associate Professor of Data Analytics at the Marketing, Innovation, and Organization Department (Research Group Data Analytics) at Ghent University. Besides that, I am also Visiting Professor at the University of Namur and a member of the CVAMO research group at Flanders Make. Prior to joining Ghent University, I worked as an Assistant Professor at the University of Edinburgh Business School and Postdoctoral Researcher at the KU Leuven. I studied Business Engineering and received a PhD in Business Economics at Ghent University in 2018. I have taught a wide range of data analytics courses ranging from basic statistics and database management to advanced predictive analytics and social media and web analytics. My research focuses on applications of descriptive, predictive and prescriptive analytics in social media, customer relationship management, hospitality, sports and production and manufacturing. My research has been published in several well-known international journals such as the *European Journal of Operational Research*, *Machine Learning*, *Omega*, *Decision Sciences*, among others.
 
 📫 Get in touch:
-* E-mail: <Matthias.Bogaert@UGent.be>
+* [E-mail](Matthias.Bogaert@UGent.be>)
 * [Research portal](https://research.ugent.be/web/person/matthias-bogaert-0/en)
 * [LinkedIn](www.linkedin.com/in/matthias-bogaert-79a28148)
 * [X](https://x.com/MatthBogaert)
