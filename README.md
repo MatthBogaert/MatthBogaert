@@ -101,6 +101,6 @@ Cost and Value Analytics, Models & Optimization (CVAMO) is a new research lab th
 
 CVAMO is a core lab in the Strategic Research Center Flanders Make (www.flandersmake.be), that groups research labs from all Flemmish universities. Based on high-tech research, Flanders Make offers active support to companies in the manufacturing industry to develop and optimize products and production processes.
 
-Below you can see a picture of the members in our research group (beginnig at the bottom row, from right to left): Shimanto Rahman (assitant), Prof Dr Matthias Bogaert, Juliana Sanchez Ramirez (PhD, shared with IESEG School of Management), Dylan Van Mulders (assitant), Xiao Wang (PhD), Lukas De Kerpel (assistant), Yaël De Rocker (PhD), Prof Dr Dries Benoit, Athur Thuy (PhD), Brammert Termont (PhD), Dr Bram Janssens (postdoc), Prof Dr Dirk Van den Poel, Matteo Ballegeer (PhD), Wannes Janssens (PhD), Toon Van Camp (PhD). 
+Below you can see a picture of the members in our research group (Bottom row, from left to right: Prof Dr Dirk Van den Poel, Prof Dr Dries Benoit, Prof Dr Matthias Bogaert, Brammert Termont (PhD researcher), Wannes Janssens (PhD researcher), Dylan Van Mulders (assistant), Xiao Wang (PhD researcher), Yaël De Rocker (PhD researcher). Top row, from left to right: Shimanto Rahman (assistant), Nathan Markx (PhD researher), Lukas De Kerpel (assistant), Toon Van Camp (PhD researcher), Matteo Ballegeer (PhD researcher), Simon De Lange (PhD researcher))  
 
-![alt text here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/DSC04747.jpg)
+![alt text here](https://github.com/MatthBogaert/MatthBogaert/blob/main/Files/Group_Picture_Nov_2025_UGent_Data_Analytics.jpg)
